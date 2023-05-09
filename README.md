@@ -1,1 +1,1 @@
-# Technical-Assignments
+# Technical-Assignment
